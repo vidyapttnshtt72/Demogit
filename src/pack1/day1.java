@@ -14,6 +14,11 @@ public class day1 {
 	public void personalloan()
 	{
 		System.out.println("personal loan");
+		System.out.println("Personal Loan 1");
+		System.out.println("Personal Loan2");
+		System.out.println("Personal Loan3");
+		
+		
 	}
 @Test(groups = {"smoke"})
 public void demo()
