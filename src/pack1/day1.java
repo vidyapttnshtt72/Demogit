@@ -17,12 +17,15 @@ public class day1 {
 		System.out.println("Personal Loan 1");
 		System.out.println("Personal Loan2");
 		System.out.println("Personal Loan3");
+	
 		
 		
 	}
 @Test(groups = {"smoke"})
 public void demo()
 {
+	System.out.println("Hello");
+	System.out.println("Hello");
 	System.out.println("Hello");
 }
 }
